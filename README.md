@@ -13,13 +13,12 @@ Use Jenkins to build a simple Java application using Maven. This is your first s
 
 - ## 📂 Project Structure
 
-- hello-java-maven/ ├── pom.xml
+- hello-java-maven/
+- ├── pom.xml
 -  └── src/
--  
--  └── main/
--  
+
+-  └── main/  
 -   └── java/
--   
 -    └── HelloWorld.java
 
   # ⚙️ Jenkins Installation on EC2 (Ubuntu)
